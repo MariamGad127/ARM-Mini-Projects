@@ -1,0 +1,6 @@
+[submodule "ARM-External-Interrupts"]
+	path = ARM-External-Interrupts
+	url = https://github.com/MariamGad127/ARM-External-Interrupts
+[submodule "ARM-LED-Matrix"]
+	path = ARM-LED-Matrix
+	url = https://github.com/MariamGad127/ARM-LED-Matrix
